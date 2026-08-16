@@ -62,6 +62,6 @@ segment is likely to reduce churn most cost-effectively.
 - GitHub (version control)
 
 ---
-**Author:** Samruddhi Raut
-**Role:** Finance Analyst Intern
+**Author:** Saket Jha
+**Role:** Data Analyst Intern
 **Organization:** Unified Mentor Private Limited
